@@ -1,5 +1,5 @@
 .DS_Store
-node_modules/
+# node_modules/
 bundles/
 PIG/bundles/
 Parse-Dashboard/public/bundles/
@@ -11,3 +11,8 @@ npm-debug.log
 *.swp
 .env
 .idea/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
