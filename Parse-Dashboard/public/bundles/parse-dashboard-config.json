@@ -1,0 +1,13 @@
+{
+  "apps": [{
+    "serverURL": "https://senstone-io.herokuapp.com/parse/",
+    "appId": "fc82dc46-2486-4933-8078-c98b02488647",
+    "masterKey": "463498b1-623c-4c37-b647-a69956796035",
+    "appName": "senstone-io",
+    "iconName": "",
+    "allowInsecureHttp": true,
+    "userId": "senstone",
+    "userPassword": "13Senstone"
+  }],
+  "iconsFolder": "icons"
+}
